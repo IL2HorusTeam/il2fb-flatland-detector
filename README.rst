@@ -42,8 +42,13 @@ stand for flatlands used for placement of 2 airfields and 1 village.
 .. image:: ./examples/map-highlighted.png
    :align: center
 
+Example of an airbase which is placed one of that flatlands is shown below.
+
+.. image:: ./examples/view.jpg
+   :align: center
+
 Flatland Detector allows to find such flatlands, save them in binary format and
-to imprint them in maps. 
+to imprint them in maps.
 
 
 .. |pypi_package| image:: http://img.shields.io/pypi/v/il2fb-flatland-detector.svg?style=flat
